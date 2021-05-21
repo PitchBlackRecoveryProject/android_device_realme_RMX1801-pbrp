@@ -95,6 +95,7 @@ TW_OZIP_DECRYPT_KEY := "1CA21E12271335AE33AB81B2A7B14622"
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_THEME := portrait_hdpi
 TW_USE_TOOLBOX := true
+TW_TORCH_PATH := "/sys/class/leds/torch-light0"
 PB_TORCH_PATH := "/sys/class/leds/torch-light0"
 
 # TWRP flags for notch
